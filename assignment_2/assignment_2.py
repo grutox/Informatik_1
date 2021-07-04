@@ -1,6 +1,6 @@
 ######################################################################
 # Author: Thomas Gruber
-# MatNr: 1625378
+
 # Description: The main file Assignment_2 
 # Comments: Enter the input file (ass_1.p) and the outputfile (ass_2.p)
 #           to verify the check_sum enter --verify, and for the Pearson 
