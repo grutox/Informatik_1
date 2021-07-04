@@ -1,6 +1,6 @@
 ######################################################################
 # Author: Thomas Gruber
-# MatNr: 1625378
+
 # Description: The main file Assignment_3
 # Comments: Enter the input file (ass_2.p) and the output path
 ######################################################################
