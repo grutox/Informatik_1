@@ -1,6 +1,6 @@
 ######################################################################
 # Author: Thomas Gruber
-# MatNr: 1625378
+
 # Description: The main file Assignment_1 only has 1 file. 
 # Comments: Enter DATA/RECORDS for running the file!
 ######################################################################
